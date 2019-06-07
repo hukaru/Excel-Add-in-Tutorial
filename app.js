@@ -149,7 +149,7 @@ require('./function-file/function-file.js');
 
     function openDialog() {
         Office.context.ui.displayDialogAsync(
-            'https://localhost:3000/popup.html',
+            'https://accplan.herokuapp.com/popup.html',
             {height: 35, width: 25},
 
             function (result) {
