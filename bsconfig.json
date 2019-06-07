@@ -1,6 +1,6 @@
 {
     "ui": {
-        "port": $PORT
+        "port": 443
     },
     "server": {
         "routes": {
